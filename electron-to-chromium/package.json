@@ -1,0 +1,105 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "electron-to-chromium@^1.2.7",
+        "scope": null,
+        "escapedName": "electron-to-chromium",
+        "name": "electron-to-chromium",
+        "rawSpec": "^1.2.7",
+        "spec": ">=1.2.7 <2.0.0",
+        "type": "range"
+      },
+      "/var/www/html/smis-production-test/node_modules/autoprefixer/node_modules/browserslist"
+    ]
+  ],
+  "_from": "electron-to-chromium@>=1.2.7 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "electron-to-chromium@1.4.75",
+  "_inCache": true,
+  "_location": "/electron-to-chromium",
+  "_nodeVersion": "14.19.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/electron-to-chromium_1.4.75_1646118149484_0.5694533103619324"
+  },
+  "_npmUser": {
+    "name": "kilianvalkhof",
+    "email": "kilian@kilianvalkhof.com"
+  },
+  "_npmVersion": "6.14.16",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "electron-to-chromium@^1.2.7",
+    "scope": null,
+    "escapedName": "electron-to-chromium",
+    "name": "electron-to-chromium",
+    "rawSpec": "^1.2.7",
+    "spec": ">=1.2.7 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/autoprefixer/browserslist",
+    "/caniuse-api/browserslist",
+    "/postcss-merge-rules/browserslist"
+  ],
+  "_resolved": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.75.tgz",
+  "_shasum": "d1ad9bb46f2f1bf432118c2be21d27ffeae82fdd",
+  "_shrinkwrap": null,
+  "_spec": "electron-to-chromium@^1.2.7",
+  "_where": "/var/www/html/smis-production-test/node_modules/autoprefixer/node_modules/browserslist",
+  "author": {
+    "name": "Kilian Valkhof"
+  },
+  "bugs": {
+    "url": "https://github.com/kilian/electron-to-chromium/issues"
+  },
+  "dependencies": {},
+  "description": "Provides a list of electron-to-chromium version mappings",
+  "devDependencies": {
+    "ava": "^4.0.1",
+    "codecov": "^3.8.0",
+    "electron-releases": "^3.953.0",
+    "nyc": "^15.1.0",
+    "request": "^2.65.0",
+    "shelljs": "^0.8.4"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-LxgUNeu3BVU7sXaKjUDD9xivocQLxFtq6wgERrutdY/yIOps3ODOZExK1jg8DTEg4U8TUCb5MLGeWFOYuxjF3Q==",
+    "shasum": "d1ad9bb46f2f1bf432118c2be21d27ffeae82fdd",
+    "tarball": "https://registry.npmjs.org/electron-to-chromium/-/electron-to-chromium-1.4.75.tgz",
+    "fileCount": 13,
+    "unpackedSize": 159705,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJiHcUFACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2VmqrPQ/9HA92gugaFh4FehKE+IeTEBINS91/WDo5DHus3xLmJVCfCsSe\r\nyotwCyUO7iLKp98S5JQI07Nn94m7SeG01knx3Q+4RHen4JEYL2dg6FJF1Y2e\r\n0TS4/fiXGynV5hiW6Rh/sJYfVWonAaOSHK6MJ3TZ6qBdXPwuwzi8yjZBsSAg\r\nkPAZjBM/RplWSHNxL+GGTqCA8cDGnfOA8ImDzRLdppB1Ga2QfqrawsGl9Dds\r\nVGKV1PZQJH769qwpTir4m1uLqy910A1QtzYquBLWDysoDtUqoMPv7AqSjasG\r\nd4Kiml3yYaauw0RJp8VEX/rHLCATuJkklYo3n4TJG671wL14xJHP+2yh4Q93\r\nJCERYpuAvsRXFuQWQMNdos3pttJNef4iBDt8eXsKyYL9J/VA77SIzpVTAQHu\r\nwzhMsKHBuIj3jotOOkDYfGoRwFCBk3V/Qrq7j+q6MM2aCQTSKkdB7POC7V8A\r\nh2eYkfdKi8OToDUFuNw+H7wfrH+DJN2CCjwD1IAKrrRuSOQdBt0jMaQloTim\r\ne3A9QLZRGZU9coJ6V9dJWYXNkpAUFnhtmMrg6HkUhYWeTAPlTrU0wVCXBrPg\r\nL6Z4yXeLazgnFbLOR4dXtARkMFtT0GPxKeyjk8RSowQ7O0sU97nRiycwpJsy\r\nGTVlJwlmiSHNQFB4pxpOmiONseEjs/4uIHk=\r\n=41IS\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "213ccecace0da7a0e4b2f75a7d069567c50a2b7e",
+  "homepage": "https://github.com/kilian/electron-to-chromium#readme",
+  "keywords": [
+    "electron",
+    "chrome",
+    "browserlist"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "kilianvalkhof",
+      "email": "kilian@kilianvalkhof.com"
+    }
+  ],
+  "name": "electron-to-chromium",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kilian/electron-to-chromium.git"
+  },
+  "scripts": {
+    "build": "node build.js",
+    "report": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
+    "test": "nyc ava --verbose",
+    "update": "node automated-update.js"
+  },
+  "version": "1.4.75"
+}
